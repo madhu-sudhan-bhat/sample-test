@@ -1,2 +1,2 @@
-# sample-test
-# testing the commit 1
+# Sample-test
+# Testing the commit 1
